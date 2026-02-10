@@ -19,11 +19,11 @@
       country: 'Test'
   card:
     - fullName: 'Administrator'
-      cardNum: 4716190207394368
+      cardNum: ****
       expMonth: 2
       expYear: 2081
     - fullName: 'Administrator'
-      cardNum: 4024007105648108
+      cardNum: ****
       expMonth: 4
       expYear: 2086
 -
@@ -55,7 +55,7 @@
       country: 'United Federation of Planets'
   card:
     - fullName: 'Jim'
-      cardNum: 5107891722278705
+      cardNum: ****
       expMonth: 11
       expYear: 2099
 -
@@ -79,7 +79,7 @@
       country: 'Planet Earth'
   card:
     - fullName: 'Bender'
-      cardNum: 4716943969046208
+      cardNum: ****
       expMonth: 2
       expYear: 2081
 -
@@ -99,7 +99,7 @@
       country: 'Germany'
   card:
     - fullName: 'Bjoern Kimminich'
-      cardNum: 4815205605542754
+      cardNum: ****
       expMonth: 12
       expYear: 2092
 -
@@ -228,7 +228,7 @@
       country: 'United Fakedom'
   card:
     - fullName: 'Tim Tester'
-      cardNum: 1234567812345678
+      cardNum: ****
       expMonth: 12
       expYear: 2099
 -
